@@ -1,4 +1,4 @@
-# Part A – Case Study: 19\. Choose one of th
+# Part A – Case Study
 
 Case Study: The Spear-Phishing Trap  
 What is Phishing?  
